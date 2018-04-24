@@ -13,3 +13,4 @@ autoreboot 2
 
 globalcore +1250
 globalmem +2100
+reb 03f1a8 1
