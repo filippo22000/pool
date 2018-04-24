@@ -11,7 +11,7 @@ autoreboot 2
 #lockscreen enabled
 #globaldesktop disabled
 
-#globalcore +1400
+globalcore +1100
 globalmem +2225
 reb 03f1a8 2
 
