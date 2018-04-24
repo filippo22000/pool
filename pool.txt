@@ -14,3 +14,10 @@ autoreboot 2
 globalcore +1250
 globalmem +2225
 reb 03f1a8 2
+
+vit 113-2E366AU-X4Z 950 
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X5T 950
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X4Z 950
