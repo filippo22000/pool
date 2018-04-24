@@ -12,5 +12,5 @@ autoreboot 2
 #globaldesktop disabled
 
 globalcore +1250
-globalmem +2100
-reb 03f1a8 1
+globalmem +2150
+reb 03f1a8 2
