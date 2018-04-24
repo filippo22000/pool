@@ -7,7 +7,7 @@ proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 50
 autoreboot 2
-globalpowertune 110
+#globalpowertune 90
 #lockscreen enabled
 #globaldesktop disabled
 
@@ -15,9 +15,9 @@ globalcore +1300
 globalmem +2225
 reb 03f1a8 2
 
-#vit 113-2E366AU-X4Z 950 
-#vit 113-2E366AU-X4Z 950
-#vit 113-2E366AU-X5T 950
-#vit 113-2E366AU-X4Z 950
-#vit 113-2E366AU-X4Z 950
-#vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X4Z 950 
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X5T 950
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X4Z 950
+vit 113-2E366AU-X4Z 950
