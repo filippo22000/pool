@@ -12,7 +12,7 @@ autoreboot 2
 #globaldesktop disabled
 
 globalcore +1300
-globalmem +2225
+globalmem +2250
 reb 03f1a8 2
 
 vit 113-2E366AU-X4Z 950 
