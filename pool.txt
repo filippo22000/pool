@@ -6,10 +6,10 @@ proxypool1 eu1.ethermine.org:4444
 proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 50
-autoreboot 1
+autoreboot 2
 #globalpowertune 130
 #lockscreen enabled
 #globaldesktop disabled
 
 globalcore +1250
-globalmem +2050
+globalmem +2100
