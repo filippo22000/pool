@@ -11,8 +11,8 @@ autoreboot 2
 #lockscreen enabled
 #globaldesktop disabled
 
-globalcore +1250
-globalmem +2225
+globalcore +1150
+globalmem +2150
 reb 03f1a8 2
 
 vit 113-2E366AU-X4Z 950 
