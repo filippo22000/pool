@@ -11,8 +11,8 @@ globalpowertune 130
 #lockscreen enabled
 #globaldesktop disabled
 
-globalcore +1300
-globalmem +2240
+globalcore 1300
+globalmem 2240
 reb 03f1a8 3
 
 vit 113-2E366AU-X4Z 950 
