@@ -5,14 +5,14 @@ proxywallet 0x34c6f1c2FA89aFc4C787c51a9fF2CF5901B96809
 proxypool1 eu1.ethermine.org:4444
 proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 50
+globalfan 64
 autoreboot 2
 #globalpowertune 90
 #lockscreen enabled
 #globaldesktop disabled
 
-globalcore +1250
-globalmem +2235
+globalcore +1300
+globalmem +2240
 reb 03f1a8 2
 
 vit 113-2E366AU-X4Z 950 
