@@ -7,12 +7,12 @@ proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 64
 autoreboot 2
-#globalpowertune 120
+globalpowertune 130
 #lockscreen enabled
 #globaldesktop disabled
 
 globalcore 1300
-globalmem 2275
+globalmem 2250
 reb 03f1a8 3
 
 vit 113-2E366AU-X4Z 950 
