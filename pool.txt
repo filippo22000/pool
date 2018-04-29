@@ -12,13 +12,15 @@ globalpowertune 130
 #globaldesktop disabled
 
 globalcore 1300
-globalmem 2250
+#globalmem 2250
 reb 03f1a8 3
 
-
+mem 113-2E366AU-X4Z 2250
 vlt 113-2E366AU-X4Z 950
+
+mem 113-2E366AU-X5T 2250
 vlt 113-2E366AU-X5T 950
 
-mem 113-2E366AU-X56 2400
+mem 113-2E366AU-X56 2250
 vlt 113-2E366AU-X56 950
 
