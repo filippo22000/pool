@@ -10,7 +10,7 @@ proxypool1 daggerhashimoto.eu.nicehash.com:3353
 #proxypool1 eu1.ethermine.org:4444
 #proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 50
+globalfan 60
 autoreboot 1
 globalpowertune 80
 #lockscreen enabled
