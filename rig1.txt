@@ -11,10 +11,14 @@ proxypool1 daggerhashimoto.eu.nicehash.com:3353
 #proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 60
-autoreboot 15
+autoreboot 1
 globalpowertune 80
 #lockscreen enabled
 #globaldesktop disabled
 
 #globalcore +1250
-globalmem +700
+#globalmem +700
+
+#cor a49e99 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150
+mem a49e99 +700 +700 +700 +700 +700 +700 +650 +700 +650 +700 +700 +700
+#vlt a49e99 840 840 840 840 840 840 840 840 840 840 840 840
