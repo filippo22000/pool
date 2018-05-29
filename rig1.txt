@@ -1,7 +1,7 @@
 globalminer ethminer
 #globalminer claymore
 maxgputemp 85
-stratumproxy enabled
+stratumproxy miner
 
 #stratumproxy nicehash
 #proxywallet 355W2yrCs7WAQynjYEE9zHaAGnkYUVcvtq
