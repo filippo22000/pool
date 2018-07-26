@@ -1,12 +1,12 @@
 globalminer claymore
 maxgputemp 85
-stratumproxy nicehash
-proxywallet 355W2yrCs7WAQynjYEE9zHaAGnkYUVcvtq
-proxypool1 daggerhashimoto.eu.nicehash.com:3353
-#stratumproxy enabled
-#proxywallet 0x34c6f1c2FA89aFc4C787c51a9fF2CF5901B96809
-#proxypool1 eu1.ethermine.org:4444
-#proxypool2 eu1.ethermine.org:5555
+#stratumproxy nicehash
+#proxywallet 355W2yrCs7WAQynjYEE9zHaAGnkYUVcvtq
+#proxypool1 daggerhashimoto.eu.nicehash.com:3353
+stratumproxy enabled
+proxywallet 0x34c6f1c2FA89aFc4C787c51a9fF2CF5901B96809
+proxypool1 eu1.ethermine.org:4444
+proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 60
 autoreboot 0
@@ -14,8 +14,8 @@ autoreboot 0
 #reb 03f3af 3
 
 #ethermini conf
-#safevolt disabled
-#cor 03f3af 1200 1200 1200 1200 1150 1200 1200 1200 1200 1200 1200 1200
-#mem 03f3af 2250 2250 2250 2250 2050 2250 2250 2250 2250 2250 2250 2250
-#vlt 03f3af 840 840 840 840 840 840 840 840 840 840 840 840
+safevolt disabled
+cor 03f3af 1200 1200 1200 1200 1150 1200 1200 1200 1200 1200 1200 1200
+mem 03f3af 2250 2250 2250 2250 2050 2250 2250 2250 2250 2250 2250 2250
+vlt 03f3af 840 840 840 840 840 840 840 840 840 840 840 840
 
