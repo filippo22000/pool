@@ -1,15 +1,15 @@
-#globalminer ethminer
-globalminer claymore
+globalminer ethminer
+#globalminer claymore
 maxgputemp 85
-#stratumproxy miner
+stratumproxy miner
 
-stratumproxy nicehash
-proxywallet 355W2yrCs7WAQynjYEE9zHaAGnkYUVcvtq
-proxypool1 daggerhashimoto.eu.nicehash.com:3353
+#stratumproxy nicehash
+#proxywallet 355W2yrCs7WAQynjYEE9zHaAGnkYUVcvtq
+#proxypool1 daggerhashimoto.eu.nicehash.com:3353
 
-#proxywallet 0x34c6f1c2FA89aFc4C787c51a9fF2CF5901B96809
-#proxypool1 eu1.ethermine.org:4444
-#proxypool2 eu1.ethermine.org:5555
+proxywallet 0x34c6f1c2FA89aFc4C787c51a9fF2CF5901B96809
+proxypool1 eu1.ethermine.org:4444
+proxypool2 eu1.ethermine.org:5555
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 60
 autoreboot 0
@@ -17,8 +17,8 @@ globalpowertune 80
 #lockscreen enabled
 #globaldesktop disabled
 
-#globalcore +1250
-#globalmem +700
+globalcore +1250
+globalmem +700
 
 #cor a49e99 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150
 #mem a49e99 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600
