@@ -1,5 +1,5 @@
-globalminer ethminer
-#globalminer claymore
+#globalminer ethminer
+globalminer claymore
 maxgputemp 85
 stratumproxy miner
 
@@ -20,6 +20,6 @@ globalpowertune 80
 globalcore +1250
 globalmem +700
 
-#cor a49e99 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150 1150
-#mem a49e99 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600 +600
-#vlt a49e99 840 840 840 840 840 840 840 840 840 840 840 840
+cor a49e99 1150 1150 1150 1150 1150 1150 
+mem a49e99 +600 +600 +600 +600 +600 +600 
+vlt a49e99 840 840 840 840 840 840 
